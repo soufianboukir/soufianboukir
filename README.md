@@ -1,6 +1,5 @@
-## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently studying fullstack developement<br>🌱 I’m currently learning React js, laravel php, express js<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying fullstack developement<br>🌱 I’m currently learning React js, laravel php, express js
 
 
 ## 🌐 Socials:
