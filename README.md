@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 👋, I'm Soufian:
 🔭 I’m currently studying fullstack developement<br>🌱 I’m currently learning React js, laravel php, express js
 
 
