@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Soufian:
-🔭 I’m currently studying fullstack developement<br>🌱 I’m currently learning React js, laravel php, express js
-
+# I'm Soufian, Laravel & React.js developer👨🏼‍💻:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofyan_boukir) 
