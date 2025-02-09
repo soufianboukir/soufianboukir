@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofyan_boukir) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
 
 
 
