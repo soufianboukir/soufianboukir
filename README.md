@@ -1,4 +1,4 @@
-### I don’t just solve problems—I build solutions with Laravel, Express, and React 🚀
+### Making apps goeee with MERN stack & Laravel 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofyan_boukir) 
 
