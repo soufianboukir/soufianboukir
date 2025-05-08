@@ -1,8 +1,16 @@
 ### Making apps goeee with MERN stack & Laravel techs 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofyan_boukir) 
+<br />
+<br />
+- I enjoy turning ideas into fast, simple, and useful experiences.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
+- Here you'll find fragments of my curiosity, experiments, and ambition — written in code, shaped by open source, and shared with intention.
+
+- Available for open-source projects using Express.js, TypeScript, Next.js, or React — happy to collaborate!
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade) -->
 
 
 
