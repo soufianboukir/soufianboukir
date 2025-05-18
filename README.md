@@ -1,4 +1,5 @@
-### Available for open source projects to collaborate 🚀, reach me on 
+### Hi there. i'm soufian, modern web-apps developer
+### Available for open source projects to collaborate 🚀,
 
 [![Twitter](https://img.shields.io/badge/x.com-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/soufian_boukir) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofyan_boukir) 
