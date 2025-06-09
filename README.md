@@ -1,4 +1,4 @@
-### Hi there. i'm soufian, modern web-apps developer
+### Hi there. i'm soufian,
 ### Available for open source projects to collaborate 🚀,
 
  I enjoy turning ideas into fast, simple, and useful experiences.
