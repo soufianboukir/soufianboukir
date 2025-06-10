@@ -1,11 +1,13 @@
 ### Hi there. i'm soufian,
 ### Available for open source projects to collaborate 🚀,
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianboukir&label=Profile%20views&color=0e75b6&style=flat" alt="soufianboukir" /> </p>
 
  I enjoy turning ideas into fast, simple, and useful experiences.
 
  Here you'll find fragments of my curiosity, experiments, and ambition — written in code, shaped by open source, and shared with intention.
 
  Available for open-source projects using Express.js, TypeScript, Next.js, or React — happy to collaborate!
+
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade) -->
