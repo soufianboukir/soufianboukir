@@ -1,5 +1,4 @@
 ### Hi there. i'm soufian,
-### Available for open source projects to collaborate 🚀,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianboukir&label=Profile%20views&color=0e75b6&style=flat" alt="soufianboukir" /> </p>
 
  I enjoy turning ideas into fast, simple, and useful experiences.
