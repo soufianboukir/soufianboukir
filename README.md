@@ -7,7 +7,7 @@
 
  Available for open-source projects using MERN stack, Next.js, happy to collaborate!
  
- have a project on mind | SAAS idea | or just want to talk, Reach me on my email soufianeboukir0@gmail.com
+ have a project on mind or just want to talk, reach me on my email soufianeboukir0@gmail.com
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade) -->
