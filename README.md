@@ -6,7 +6,8 @@
  Here you'll find fragments of my curiosity, experiments, and ambition, written in code, shaped by open source, and shared with intention.
 
  Available for open-source projects using MERN stack, Next.js, happy to collaborate!
- 
+
+
  have a project on mind or just want to talk, reach me on my email soufianeboukir0@gmail.com
 
 
