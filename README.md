@@ -12,7 +12,6 @@ Turning ideas into smooth, production-ready experiences is my favorite thing to 
 - Love blending **design & functionality** for real-world projects  
 
 
-  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade) -->
 
