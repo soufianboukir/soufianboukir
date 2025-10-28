@@ -12,7 +12,7 @@ Turning ideas into smooth, production-ready experiences is my favorite thing to 
 ## About Me
 - Always curious about **tech & digital development**  
 - When not coding, i love playing football and swimming
-- Love blending **design & functionality** for real-world projects  
+- Love blending **design & functionality** for real-world projects
 
 
 
