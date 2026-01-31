@@ -6,7 +6,7 @@
 I’m <a href="https://soufianboukir.com">soufian</a>, student from morocco
 
 - Turning ideas into smooth, production-ready experiences is my favorite thing to do.
-- Interested in AI, data science
+- Interested in AI, data science and maths
 - when not coding, I looove playing football || swimming 
 
 
