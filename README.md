@@ -6,6 +6,7 @@
 - Interested in AI, data science and maths
 - when not doing something related to my work, I looove playing football || swimming -->
 born with passion.
+<br/>
 exploring.
 
 
