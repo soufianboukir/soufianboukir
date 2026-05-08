@@ -6,10 +6,5 @@
 - Interested in AI, data science and maths
 - when not doing something related to my work, I looove playing football || swimming -->
 
-Interested in AI, data science and maths
-<br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanBoukir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
-
+Interested in data science and maths
 
