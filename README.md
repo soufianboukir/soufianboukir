@@ -6,5 +6,5 @@
 - Interested in AI, data science and maths
 - when not doing something related to my work, I looove playing football || swimming -->
 
-Interested in data science and maths
+Exploring data science and maths
 
