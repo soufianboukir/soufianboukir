@@ -24,13 +24,11 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 **DEV & Databases:** Next.js, Flask, Mysql, Mongodb
 
-**ML & Data science:** Pandas, NumPy, Scikit-learn, Pytorch, Streamlit
+**ML & Data science:** Pandas, NumPy, Scikit-learn, Pytorch, Streamlit, Apache spark
 
 **Data Visualization:** Power BI, Excel, Plotly, Matplotlib, Seaborn
 
-**Tools & Platforms:** Git & GitHub, Docker, Linux, CI/CD
-
-**Cloud & Big data:** AWS EC2, Github Actions, Apache spark
+**Cloud & Tools:** Git & GitHub, Docker, Linux, CI/CD, AWS EC2, Github Actions
 
 ---
 
@@ -41,15 +39,6 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 - Generative AI Systems
 - Cloud-based ML Workflows
 - Scalable Data Systems
-
----
-
-## Goals
-
-- Build impactful AI systems
-- Strengthen mathematical and statistical foundations
-- Contribute to real-world ML projects
-- Gain deeper expertise in production ML and scalable AI systems
 
 ---
 
