@@ -10,7 +10,7 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 ## About Me
 
 - 🎓 Bachelor's student in AI Engineering & Data Science
-- 🤖 Interested in Machine Learning, Deep Learning, and Generative AI
+- 🤖 Interested in Machine Learning, Deep Learning, and Maths
 - 📊 Passionate about Data Analysis, Statistics, and Predictive Modeling
 - 🛠️ Building projects with Python, SQL, Streamlit, and ML frameworks
 - ☁️ Exploring deployment, cloud tools, and production ML systems
