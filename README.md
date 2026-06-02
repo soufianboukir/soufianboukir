@@ -2,7 +2,7 @@
 
 ### AI Engineering & Data Science Student
 
-I’m a bachelor's student focused on Artificial Intelligence, Data Science, and Machine Learning.  
+A bachelor's student focused on Machine learning, data science and maths.  
 I enjoy building data-driven systems, exploring machine learning concepts deeply, and turning ideas into practical projects.
 
 ---
@@ -21,13 +21,9 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 ## Technical Skills
 
 **Languages:** Python, Typescript, SQL
-
 **DEV & Databases:** Next.js, Flask, Mysql, Mongodb
-
 **ML & Data science:** Pandas, NumPy, Scikit-learn, Pytorch, Tensorflow, Streamlit, Apache spark
-
 **Data Visualization:** Power BI, Excel, Plotly, Matplotlib, Seaborn
-
 **Cloud & Tools:** Git & GitHub, Docker, Linux, CI/CD, AWS EC2, Github Actions, Prompt engineering
 
 ---
