@@ -28,7 +28,7 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 ---
 
-## Currently Learning
+## Currently focusing on
 
 - Advanced Machine Learning
 - MLOps & Machine Learning in Production
@@ -43,7 +43,3 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 - Portfolio: https://soufianboukir.com
 - LinkedIn: https://linkedin.com/in/soufianboukir
 - Email: soufianeboukir0@gmail.com
-
----
-
-> “Data is valuable only when transformed into insight.”
