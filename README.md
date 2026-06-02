@@ -5,17 +5,17 @@
 A bachelor's student focused on Machine learning, data science and maths.  
 I enjoy building data-driven systems, exploring machine learning concepts deeply, and turning ideas into practical projects.
 
----
+<!-- ---
 
-## About Me
+<!-- ## About Me
 
-- 🎓 Bachelor's student in AI Engineering & Data Science
-- 🤖 Interested in Machine Learning, Deep Learning, and Maths
-- 📊 Passionate about Data Analysis, Statistics, and Predictive Modeling
-- 🛠️ Building projects with Python, SQL, Streamlit, and ML frameworks
-- ☁️ Exploring deployment, cloud tools, and production ML systems
-- 📚 Continuously learning through hands-on projects and certifications
-
+<!-- - 🎓 Bachelor's student in AI Engineering & Data Science
+<!-- - 🤖 Interested in Machine Learning, Deep Learning, and Maths
+<!-- - 📊 Passionate about Data Analysis, Statistics, and Predictive Modeling
+<!-- - 🛠️ Building projects with Python, SQL, Streamlit, and ML frameworks
+<!-- - ☁️ Exploring deployment, cloud tools, and production ML systems
+<!-- - 📚 Continuously learning through hands-on projects and certifications
+-->
 ---
 
 ## Technical Skills
