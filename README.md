@@ -24,11 +24,11 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 **DEV & Databases:** Next.js, Flask, Mysql, Mongodb
 
-**ML & Data science:** Pandas, NumPy, Scikit-learn, Pytorch, Streamlit, Apache spark
+**ML & Data science:** Pandas, NumPy, Scikit-learn, Pytorch, Tensorflow, Streamlit, Apache spark
 
 **Data Visualization:** Power BI, Excel, Plotly, Matplotlib, Seaborn
 
-**Cloud & Tools:** Git & GitHub, Docker, Linux, CI/CD, AWS EC2, Github Actions
+**Cloud & Tools:** Git & GitHub, Docker, Linux, CI/CD, AWS EC2, Github Actions, Prompt engineering
 
 ---
 
