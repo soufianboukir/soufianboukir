@@ -40,6 +40,6 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 ## Connect With Me
 
-- Portfolio: https://soufianboukir.com
+- My site: https://soufianboukir.com
 - LinkedIn: https://linkedin.com/in/soufianboukir
-- Email: soufianeboukir0@gmail.com
+- Email: soufianboukir.contact@gmail.com
