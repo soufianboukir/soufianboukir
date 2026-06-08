@@ -32,9 +32,8 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 - Advanced Machine Learning
 - MLOps & Machine Learning in Production
-- Generative AI Systems
 - Cloud-based ML Workflows
-- Scalable Data Systems
+- Applied Maths
 
 ---
 
