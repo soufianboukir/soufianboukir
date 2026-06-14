@@ -20,7 +20,7 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 ## Technical Skills
 
-- **Languages:** Python, Typescript, SQL
+- **Programming:** Python, Typescript, SQL
 - **DEV & Databases:** Next.js, Flask, Mysql, Mongodb
 - **ML & Data science:** Pandas, NumPy, Scikit-learn, Pytorch, Tensorflow, Streamlit, Apache spark
 - **Data Visualization:** Power BI, Excel, Plotly, Matplotlib, Seaborn
