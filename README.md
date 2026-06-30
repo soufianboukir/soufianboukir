@@ -1,8 +1,8 @@
 # Hi, I'm Soufian 👋
 
-### AI Engineering & Data Science Student
+### ML Specialist | Data science
 
-A bachelor's student focused on Machine learning, data science and maths.  
+Graduated with a bcehlor's degree in AI eng and data science.
 I enjoy building data-driven systems, exploring machine learning concepts deeply, and turning ideas into practical projects.
 
 <!-- ---
