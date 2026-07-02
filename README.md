@@ -1,8 +1,11 @@
-# Hi, I'm Soufian 👋
+
+
+
+# Hi, I'm Soufian <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 ### ML Specialist | Data science
 
-Graduated with a bcehlor's degree in AI eng and data science.
+Graduated with a Bachelor's degree in AI eng and data science.
 I enjoy building data-driven systems, exploring machine learning concepts deeply, and turning ideas into practical projects.
 
 <!-- ---
