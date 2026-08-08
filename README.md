@@ -3,7 +3,7 @@
 
 # Hi, I'm Soufian <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-### ML and data science Specialist
+### Junior ML and data science Specialist
 
 
 Graduated with a Bachelor's degree in AI eng and data science.
