@@ -9,6 +9,18 @@ I enjoy building data-driven systems, exploring machine learning concepts deeply
 
 <!-- ## About Me
 
+👋 23 and carving my tech path with "Learn, Unlearn, Relearn" as my compass.
+
+🧠 Alignment • Reasoning • Multimodal LLMs • MoE • Mamba • Transformers • Attention Mechanisms • Foundation Models • DeepRL • RLHF • MMMM (4M) • Self-Supervised Learning (SSL) • Federated Learning • 3D Gaussian Splatting • LeRFs • Neural Rendering ......
+
+👀 Keeping an eye on Q* and the latest Hugging Face models, applications, datasets, and research.
+
+🌱 OS: Android | Windows | Ubuntu | Kali Linux
+
+🥝 Tech Stack: Python, Pytorch, Java, C++, Ray, vLLM, LangChain, Go, Tensorflow, W&B, Prometheus, AWS Sagemaker, TensorRT-LLM
+
+
+
 <!-- - 🎓 Bachelor's student in AI Engineering & Data Science
 <!-- - 🤖 Interested in Machine Learning, Deep Learning, and Maths
 <!-- - 📊 Passionate about Data Analysis, Statistics, and Predictive Modeling
