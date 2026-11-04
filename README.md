@@ -3,6 +3,8 @@
 ### Junior ML and data science Specialist
 
 <!--Graduated with a Bachelor's degree in AI eng and data science.
+
+
 I enjoy building data-driven systems, exploring machine learning concepts deeply, and turning ideas into practical projects.
 
 <!-- ---
